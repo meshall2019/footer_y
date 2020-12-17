@@ -1,0 +1,34 @@
+
+footer{
+   
+   background-color: #e6ffff;
+   position:absolute;
+   bottom:0;
+   width: 100%;
+   height:50%;
+   padding: 10px;
+   
+}
+
+
+footer .social .row {
+   
+    margin-top: 30px;
+}
+hr{
+    width:100%;
+    height:1px;
+    background-color:black;
+    margin-bottom: 30px;
+}
+
+
+li{
+    font-size: 25px;
+    list-style: disc;
+
+}
+ul,h2{
+    text-align: right;
+    direction: rtl;
+}
